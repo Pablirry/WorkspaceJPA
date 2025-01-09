@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="d:/Escritorio/DAM_AFA/2-DAM-1/Acceso a datos/2 Ev/LibreriasJPA/eclipselink.jar"/>
+	<classpathentry kind="lib" path="d:/Escritorio/DAM_AFA/2-DAM-1/Acceso a datos/2 Ev/LibreriasJPA/jakarta.persistence-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="d:/Escritorio/DAM_AFA/2-DAM-1/Acceso a datos/2 Ev/LibreriasJPA/mysql-connector-j-8.2.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
